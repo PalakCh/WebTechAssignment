@@ -1,0 +1,5 @@
+14:17:55.002 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - New Date of Birth validated successfully
+15:07:26.308 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Not Logged In
+15:07:48.305 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged In Successfully
+15:07:48.323 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Header Title Validated Successfully
+15:07:48.360 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Dashboardgrid is displayed

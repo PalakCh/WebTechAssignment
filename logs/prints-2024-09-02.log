@@ -1,0 +1,5 @@
+15:08:10.349 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+15:08:33.375 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Navigated to My Info Page
+15:08:33.419 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Page is loaded successfully
+15:09:25.749 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Not Logged In
+15:09:54.258 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged In Successfully

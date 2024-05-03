@@ -1,0 +1,5 @@
+14:17:36.120 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+14:17:53.266 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Navigated to My Info Page
+14:17:53.298 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Page is loaded successfully
+14:17:54.711 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Date of Birth is filled in
+14:17:54.882 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Entered new Date of Birth

@@ -1,0 +1,5 @@
+07:07:05.192 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Dashboardgrid is displayed
+07:07:28.060 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+07:07:51.794 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Navigated to My Info Page
+07:07:51.832 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Page is loaded successfully
+07:07:53.476 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Date of Birth is filled in

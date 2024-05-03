@@ -1,0 +1,5 @@
+15:19:23.513 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Header Title Validated Successfully
+15:19:23.556 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Dashboardgrid is displayed
+15:19:41.433 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+15:19:59.836 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Navigated to My Info Page
+15:19:59.853 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Page is loaded successfully

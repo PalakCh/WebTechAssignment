@@ -1,0 +1,5 @@
+02:48:08.904 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+02:59:48.632 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged In Successfully
+02:59:49.074 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Header Title Validated Successfully
+02:59:49.123 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Dashboardgrid is displayed
+03:00:33.788 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged In Successfully

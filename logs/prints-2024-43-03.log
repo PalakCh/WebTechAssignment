@@ -1,0 +1,5 @@
+15:34:19.785 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Date of Birth is filled in
+15:34:19.919 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Entered new Date of Birth
+15:34:20.037 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - New Date of Birth validated successfully
+06:43:44.328 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Not Logged In
+06:43:55.907 [main] INFO  WebTechAssignment.PageObjects.OrangeHrmLogInPage - Logged In Successfully

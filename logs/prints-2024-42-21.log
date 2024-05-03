@@ -1,0 +1,5 @@
+03:42:09.873 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged In Successfully
+03:42:13.475 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged Out Successfully
+03:42:21.517 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Logged In Successfully
+03:42:24.334 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Navigated to My Info Page
+03:42:24.364 [main] INFO  DerivWebAutomationProject.PageObjects.OrangeHrmLogInPage - Page is loaded successfully
