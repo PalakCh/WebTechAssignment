@@ -1,6 +1,6 @@
 # Web Technical Assignment
 
-This project is a Java Selenium Project.
+This project is a Java Selenium Project
 
 ## Test Cases
 * TestLogin Functionality - 2TC
